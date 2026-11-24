@@ -1,0 +1,5 @@
+module eqing_coreFFI {
+    header "eqing_coreFFI.h"
+    link "eqing_core"
+    export *
+}
